@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Kitsch-e/Kitsch-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# About Me
+Hello all, my name is Evie.
+I code primarily in C++, C#, and Python, working on personal projects and games.
